@@ -1,0 +1,7 @@
+#Tue Feb 21 22:30:51 GMT 2017
+base.0=C\:\\Users\\phill\\Documents\\MyWeatherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bc364a90d64801211ae1b81529ef001c9983faf7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\phill\\Documents\\MyWeatherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7376fbec8d9df8646abd05931509da3f144828cc\\classes.dex
+base.1=C\:\\Users\\phill\\Documents\\MyWeatherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7376fbec8d9df8646abd05931509da3f144828cc
+file.0=C\:\\Users\\phill\\Documents\\MyWeatherApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bc364a90d64801211ae1b81529ef001c9983faf7\\classes.dex
